@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 330 380" fill="none">
+  <defs>
+    <g id="ear" fill="#b99143">
+      <path d="M0 5C-10-4-12-19-5-31C1-20 4-7 0 5Z"/>
+      <path d="M0 22C-12 17-20 8-19-4C-7 0 0 10 0 22ZM1 22C12 15 17 5 14-7C4-1 0 11 1 22Z"/>
+      <path d="M1 40C-12 36-22 26-21 14C-9 18 0 28 1 40ZM2 40C14 33 21 22 18 9C7 16 2 28 2 40Z"/>
+      <path d="M2 59C-12 54-23 45-23 31C-10 36 1 47 2 59ZM3 59C16 50 23 38 21 26C9 33 3 47 3 59Z"/>
+      <path d="M3 76C-9 72-20 64-22 50C-9 53 1 65 3 76ZM4 76C15 70 24 57 23 44C11 52 4 64 4 76Z"/>
+      <path d="M0 7L-4-44M-18-3L-26-24M14-7L18-30M-21 15L-33-4M18 9L28-12M-23 32L-38 16M21 27L34 8" stroke="#b99143" stroke-width=".8"/>
+    </g>
+  </defs>
+  <path d="M172 345C44 333 10 205 72 111C104 63 185 35 245 65C147 34 104 78 111 111C121 157 270 137 290 232C305 307 243 354 172 345Z" fill="#c9dce3" opacity=".65"/>
+  <path d="M77 348C153 300 208 209 246 89M85 350C208 296 275 229 289 158M70 350C107 278 113 215 104 167" stroke="#a77d33" stroke-width="1.6" stroke-linecap="round"/>
+  <path d="M171 274C177 240 192 226 211 213C205 246 185 265 171 274ZM215 262C241 263 263 251 280 232C252 232 228 244 215 262Z" fill="#afbfab"/>
+  <path d="M101 262C69 251 62 233 61 212C84 225 97 244 101 262ZM128 302C135 269 129 250 118 237C114 268 118 289 128 302Z" fill="#a3b7a5"/>
+  <use href="#ear" transform="translate(257 43) rotate(18) scale(.9)"/>
+  <use href="#ear" transform="translate(301 105) rotate(10) scale(.76)"/>
+  <use href="#ear" transform="translate(94 116) rotate(-11) scale(.78)"/>
+</svg>
